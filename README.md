@@ -1,2 +1,2 @@
 # modool
-Repository of Modool company 
+Open repository of the company Modool. 
