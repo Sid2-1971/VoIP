@@ -24,6 +24,9 @@ Audio player widget for fields with url to audio record.
     'qweb': [
         'static/src/xml/widget.xml',
     ],
+    'images': [
+        'static/description/main_screenshot.png',
+    ],
     'application': False,
     'auto_install': False,
 }
